@@ -1,11 +1,11 @@
 pins = """
 ..... .xx..
 ..... .....
-..... .x...
+..... .....
 """
 
 [defaults]
-language = "english"
+language = "monkeyracer"
 trigram_precision = 1000
 keyboard_type = "ansi angle"
 
