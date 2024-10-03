@@ -11,10 +11,10 @@ keyboard_type = "ansi angle"
 
 [weights]
 heatmap = 1.70
-fspeed = 28.0
+fspeed = 38.0
 lateral_penalty = 1.0
 dsfb_ratio = 0.40
-scissors = 2.5
+scissors = 122.5
 lsbs = 2.0
 pinky_ring_bigrams = 0.2
 inrolls = 2.5
@@ -28,8 +28,8 @@ bad_redirects = 6.5
 bad_redirects_sfs = 7.5
 
 [weights.max_finger_use]
-penalty = 2.5
+penalty = 4.5
 pinky = 9.0
 ring = 14.0
 middle = 20.0
-index = 20.0
+index = 21.0
