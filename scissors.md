@@ -6,5 +6,6 @@
 - [zanshin](https://cyanophage.github.io/playground.html?lan=english&layout=mpkjfzluo%3B-cntsgxreai%27wbdyvqh%2C.%2F%5C%5E&mode=ansi)
 - [yuragi](https://cyanophage.github.io/playground.html?lan=english&layout=yuolq%3Bjkfb-iearxgstnd%27%2C%2F.hzvcpmw%5C%5E&mode=ansi)
 - [tsuyu](https://cyanophage.github.io/playground.html?lan=english&layout=vlkjgqfou%3B-srtydbnaei%27zxmcwph.%2F%2C%5C%5E&mode=ansi)
+- [zeref](https://cyanophage.github.io/playground.html?lan=english&layout=wldgvqbou%3B-crtsyznaei%27mxkjfph%2C.%2F%5C%5E&mode=ansi)
 
 
