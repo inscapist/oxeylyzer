@@ -1,5 +1,5 @@
 pins = """
-..... x.x..
+..... .x..x
 ..... .....
 ..... .....
 """
@@ -13,19 +13,19 @@ keyboard_type = "ansi angle"
 heatmap = 1.8
 fspeed = 23.0
 lateral_penalty = 1.0
-dsfb_ratio = 0.318 # how important is sfs compared to sfbs
-scissors = 14.5
-lsbs = 1.5
-inrolls = 1.5
+dsfb_ratio = 0.11
+scissors = 4.5
+lsbs = 2.2
+inrolls = 2.9
 outrolls = 1.35
-onehands = 0.9
-alternates = 0.9
+onehands = 1.3
+alternates = 0.4
 alternates_sfs = 0.6
-redirects = 0.4
-redirects_sfs = 0.2
-bad_redirects = 9.5
-bad_redirects_sfs = 10.0
-pinky_ring_bigrams = 1.6
+redirects = 12.4
+redirects_sfs = 13.2
+bad_redirects = 17.5
+bad_redirects_sfs = 19.0
+pinky_ring_bigrams = 0.2
 
 [weights.max_finger_use]
 penalty = 2.5
