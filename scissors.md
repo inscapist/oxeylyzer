@@ -8,7 +8,8 @@
 - [tsuyu](https://cyanophage.github.io/playground.html?lan=english&layout=vlkjgqfou%3B-srtydbnaei%27zxmcwph.%2F%2C%5C%5E&mode=ansi)
 - [zeref](https://cyanophage.github.io/playground.html?lan=english&layout=wldgvqbou%3B-crtsyznaei%27mxkjfph%2C.%2F%5C%5E&mode=ansi)
 - [kitsune](https://cyanophage.github.io/playground.html?lan=english&layout=zlymgqbau%3B-trscdfnoie%27vxkjwph%2C.%2F%5C%5E&mode=ansi)
-- [haruka](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buopzgydlw-ieanbfstrc%27%2C%2F.hqjvkxm%5C%5E&mode=ansi)
+- [haruka](https://cyanophage.github.io/playground.html?lan=english&layout=quopzvfdlm-ieanbgstrc%27%2C%2F.h%3Bjykxw%5C%5E&mode=ansi)
+- [haruka-exp2](https://cyanophage.github.io/playground.html?lan=english&layout=qoubzvdylw-iaenpmtsrc%27%2C%2F.h%3Bjkfxg%5C%5E&mode=ansi)
 - [rain by ibrahim](https://cyanophage.github.io/playground.html?lan=english&layout=fdlgvqruo%2C-sthcybneai%27zkmpwxj%3B.%2F%5C%5E&mode=ansi)
 
 

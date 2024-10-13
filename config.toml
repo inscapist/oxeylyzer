@@ -1,13 +1,13 @@
 pins = """
-..... x.x..
-..... .....
-..... .....
+x.... .....
+xxx.. .....
+...x. x....
 """
 
 [defaults]
 language = "english"
 trigram_precision = 1000
-keyboard_type = "ansi angle"
+keyboard_type = "ansi"
 
 [weights]
 heatmap = 1.8
@@ -15,17 +15,17 @@ fspeed = 23.0
 lateral_penalty = 1.0
 dsfb_ratio = 0.318 # how important is sfs compared to sfbs
 scissors = 14.5
-lsbs = 1.5
+lsbs = 4.5
 inrolls = 1.5
 outrolls = 1.35
 onehands = 0.9
 alternates = 0.9
 alternates_sfs = 0.6
-redirects = 0.4
-redirects_sfs = 0.2
-bad_redirects = 9.5
-bad_redirects_sfs = 10.0
-pinky_ring_bigrams = 1.6
+redirects = 1.4
+redirects_sfs = 1.2
+bad_redirects = 19.5
+bad_redirects_sfs = 20.0
+pinky_ring_bigrams = 2.2
 
 [weights.max_finger_use]
 penalty = 2.5
