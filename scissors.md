@@ -9,7 +9,7 @@
 - [zanshin](https://cyanophage.github.io/playground.html?lan=english&layout=wldyvqbou%3B-crtsgpnaei%27mxkfjzh.%2F%2C%5C%5E&mode=ansi)
 - [hami](https://cyanophage.github.io/playground.html?lan=english&layout=quofx%3Bhdpv-ieasgmrtnc%27%2C%2F.yzjlkbw%5C%5E&mode=ansi)
 - [kitsune](https://cyanophage.github.io/playground.html?lan=english&layout=zlymgqbau%3B-trscdfnoie%27vxkjwph%2C.%2F%5C%5E&mode=ansi)
-- [haruka](https://cyanophage.github.io/playground.html?lan=english&layout=quopzvfdlm-ieanbgstrc%27%2C%2F.h%3Bjykxw%5C%5E&mode=ansi)
+- [haruka](https://cyanophage.github.io/playground.html?lan=english&layout=quop%3Bvydlw-ieanbgstrc%27%2C%2F.hzjfkxm%5C%5E&mode=ansi)
 - [haruka X](https://cyanophage.github.io/playground.html?lan=english&layout=quopz%3Bfdlm-ieanbgstrcv%2C%27.h%2Fjykxw%5C%5E&mode=ansi)
 - [haruka-exp2](https://cyanophage.github.io/playground.html?lan=english&layout=qoubzvdylw-iaenpmtsrc%27%2C%2F.h%3Bjkfxg%5C%5E&mode=ansi)
 - [rain by ibrahim](https://cyanophage.github.io/playground.html?lan=english&layout=fdlgvqruo%2C-sthcybneai%27zkmpwxj%3B.%2F%5C%5E&mode=ansi)
