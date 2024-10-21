@@ -16,5 +16,7 @@
 - [haruka-exp2](https://cyanophage.github.io/playground.html?lan=english&layout=qoubzvdylw-iaenpmtsrc%27%2C%2F.h%3Bjkfxg%5C%5E&mode=ansi)
 - [hanoi](https://cyanophage.github.io/playground.html?lan=english&layout=%2Foucxfplmz-eaidyhnrst%27%3Bq.gwjb%2Cvk%5C%5E&mode=ansi)
 - [rain by ibrahim](https://cyanophage.github.io/playground.html?lan=english&layout=fdlgvqruo%2C-sthcybneai%27zkmpwxj%3B.%2F%5C%5E&mode=ansi)
+- [sorai](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buocxbplmv-eiasyhnrdt%27%2F.qgzjf%2Cwk%5C%5E&mode=ansi)
+- [sora](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buoxqpblmv-eiasghnrdk%27%2F.yczjf%2Cwt%5C%5E&mode=ansi)
 
 
