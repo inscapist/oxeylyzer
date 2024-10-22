@@ -18,7 +18,8 @@
 - [rain by ibrahim](https://cyanophage.github.io/playground.html?lan=english&layout=fdlgvqruo%2C-sthcybneai%27zkmpwxj%3B.%2F%5C%5E&mode=ansi)
 - [sorai](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buocxbplmv-eiasyhnrdt%27%2F.qgzjf%2Cwk%5C%5E&mode=ansi)
 - [sora](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buocxbplmv-eiasyhnrdt%27%2F.qgzjf%2Cwk%5C%5E&mode=ansi)
-- [hotaru](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buofgvhdlz-eiacypnsrt%27%2F.xw%2Cjbmqk%5C%5E&mode=ansi)
+- [hotaru (old)](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buofgvhdlz-eiacypnsrt%27%2F.xw%2Cjbmqk%5C%5E&mode=ansi)
 - [hotaruu](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buogqjhwlk-eiadypnsrt%2C%2F.xc%27bfmzv%5C%5E&mode=ansi)
+- [hotaru](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buow%27jbmlk-eiadyhnsrt%2C%2F.xcgfpvqz%5C%5E&mode=ansi)
 
 
