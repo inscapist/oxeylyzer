@@ -19,6 +19,6 @@
 - [sorai](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buocxbplmv-eiasyhnrdt%27%2F.qgzjf%2Cwk%5C%5E&mode=ansi)
 - [sora](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buocxbplmv-eiasyhnrdt%27%2F.qgzjf%2Cwk%5C%5E&mode=ansi)
 - [hotaru](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buofgvhdlz-eiacypnsrt%27%2F.xw%2Cjbmqk%5C%5E&mode=ansi)
-- [hotaruu](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buogqjhwlk-eiadyfnsrt%2C%2F.xc%27bpmzv%5C%5E&mode=ansi)
+- [hotaruu](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buogqjhwlk-eiadypnsrt%2C%2F.xc%27bfmzv%5C%5E&mode=ansi)
 
 
