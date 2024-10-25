@@ -22,5 +22,7 @@
 - [hotaruu](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buogqjhwlk-eiadypnsrt%2C%2F.xc%27bfmzv%5C%5E&mode=ansi)
 - [hotaru(v1)](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buow%27jbmlk-eiadyhnsrt%2C%2F.xcgfpvqz%5C%5E&mode=ansi)
 - [hotaru(v2)](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buagzjwhlk-eiosymdnrt%2C%2F.%27fxpcbqv%5C%5E&mode=ansi)
+- [hotaru(v5)](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buocpjvdlk-eiayghnsrt%2C%2F.xw%27fbmqz%5C%5E&mode=ansi)
+- [kenshin](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buocgjhmlk-eiadypnsrt%2C%2F.xw%27bfvqz%5C%5E&mode=ansi)
 
 
