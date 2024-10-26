@@ -24,5 +24,6 @@
 - [hotaru(v2)](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buagzjwhlk-eiosymdnrt%2C%2F.%27fxpcbqv%5C%5E&mode=ansi)
 - [hotaru(v5)](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buocpjvdlk-eiayghnsrt%2C%2F.xw%27fbmqz%5C%5E&mode=ansi)
 - [kenshin](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buocgjhmlk-eiadypnsrt%2C%2F.xw%27bfvqz%5C%5E&mode=ansi)
+- [kenshin (v3)](https://github.com/monkeytypegame/monkeytype/pull/5984)
 
 
