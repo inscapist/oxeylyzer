@@ -1,35 +1,52 @@
 pins = """
-x.... .....
-xxx.. .....
-...x. x....
+.xxx. xx..x
+xxxx. x....
+..... .....
 """
 
 [defaults]
-language = "english"
+language = "shai"
 trigram_precision = 1000
-keyboard_type = "ansi"
+keyboard_type = "ansi angle"
 
 [weights]
 heatmap = 1.8
-fspeed = 23.0
+fspeed = 23.6
 lateral_penalty = 1.0
-dsfb_ratio = 0.318 # how important is sfs compared to sfbs
-scissors = 14.5
-lsbs = 4.5
-inrolls = 1.5
-outrolls = 1.35
-onehands = 0.9
-alternates = 0.9
-alternates_sfs = 0.6
-redirects = 1.4
-redirects_sfs = 1.2
-bad_redirects = 19.5
-bad_redirects_sfs = 20.0
-pinky_ring_bigrams = 2.2
+dsfb_ratio = 0.618 # how important is sfs compared to sfbs
+scissors = 8.32
+lsbs = 1.318
+inrolls = 1.618
+outrolls = 0.318
+onehands = 0.146
+alternates = 3.09
+alternates_sfs = 2.472
+redirects = 1.618
+redirects_sfs = 0.618
+bad_redirects = 3.2
+bad_redirects_sfs = 1.618
+pinky_ring_bigrams = 0.318
+
+
+# before golden ratio
+# scissors = 13.5
+# lsbs = 2.5
+# inrolls = 2.618
+# outrolls = 1.618
+# onehands = 0.01
+# alternates = 4.9
+# alternates_sfs = 4.3
+# redirects = 0.4
+# redirects_sfs = 0.2
+# bad_redirects = 16.5
+# bad_redirects_sfs = 12.0
+# pinky_ring_bigrams = 0.318
 
 [weights.max_finger_use]
 penalty = 2.5
-pinky = 9.0
-ring = 14.0
+pinky = 12.0
+ring = 16.0
 middle = 20.0
 index = 20.0
+
+
