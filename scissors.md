@@ -26,5 +26,6 @@
 - [kenshin](https://cyanophage.github.io/playground.html?lan=english&layout=%3Buocgjhmlk-eiadypnsrt%2C%2F.xw%27bfvqz%5C%5E&mode=ansi)
 - [kenshin (v3)](https://github.com/monkeytypegame/monkeytype/pull/5984)
 - [sora v2.1](https://cyanophage.github.io/playground.html?lan=english&layout=%2Fuow%27bkmjl-eiadgpnstr%2C.%3Bcyzfhxvq%5C%5E&mode=iso)
+- [skbt-c](https://cyanophage.github.io/playground.html?lan=english&layout=%2Cuow%27zdmlb-eiasychtrn%3B.%2Ffgxpkvjq%5C%5E&mode=iso)
 
 
